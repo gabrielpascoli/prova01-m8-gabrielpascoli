@@ -1,0 +1,9 @@
+dicio = {'chave': 'valor'}
+
+print(type(dicio))
+
+dicio = dict({' informações de pagamento': 1, ' status do pedido.':  2, })
+
+pessoa = {'nome': 'Pythonico', 'altura': 1.65, 'idade': 21}
+
+print(pessoa['nome'])
